@@ -4,7 +4,7 @@ Face Emotion Recognition AI
 Simple AI to detect a person's emotion using the FER2013 dataset.
 
 ## Instructions to test:
-1. Extract `data.zip`, this is the FER2013 facial dataset.
+1. Extract `data.zip` as `./data`, this is the FER2013 facial dataset.
 
 2. Install the dependencies:
 
